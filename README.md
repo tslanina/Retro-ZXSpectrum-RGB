@@ -4,7 +4,7 @@
 * ZX Spectrum 48
 * Z80 Assembler ( executable size <= 256 bytes )
 ## Screenshot
-![Screenshot](screen.png)
+![Screenshot](srceen.png)
 ## Build instruction
 * Use Pasmo to build
 
